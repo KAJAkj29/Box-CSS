@@ -1,6 +1,6 @@
 # CSS Box Model
 
-A simple demonstration and implementation of the **CSS Box Model** using HTML and CSS.
+A simple demonstration and implementation of the **CSS Box Model** using HTML and CSS. ![Live](https://kajakj29.github.io/Box-CSS/)
 
 ## Overview
 
